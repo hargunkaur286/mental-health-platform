@@ -5,44 +5,6 @@
 @tailwind components;
 @tailwind utilities;
 
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Calibri', sans-serif;
-}
-
-body {
-  @apply flex justify-center;
-}
-
-.swiper-container {
-  @apply w-96 h-48 text-center;
-  line-height: 48px; /* Tailwind doesn't have line-height utility */
-}
-
-.swiper-slide {
-  @apply bg-gray-900 text-white text-lg;
-}
-
-.swiper-slide:nth-child(2) {
-  @apply bg-teal-700;
-}
-
-.swiper-slide:nth-child(3) {
-  @apply bg-teal-500;
-}
-
-.swiper-slide:nth-child(4) {
-  @apply bg-teal-300;
-}
-
-.swiper-slide:nth-child(5) {
-  @apply bg-green-500;
-}
-
 * {
   margin: 0;
   padding: 0;

@@ -1,10 +1,11 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, video, video2, video3, video4, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import LobbyScreen from "../screens/Lobby";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
     { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
+    { href: "https://www.helpguide.org/find-help.htm", label: "Helpline" },
     { href: "#contact-us", label: "Contact Us" },
 ];
 
@@ -26,24 +27,24 @@ export const shoes = [
 
 export const products = [
     {
-        imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        imgURL: video,
+        name: "One on One Video Call",
+        link: "http://localhost:3001/lobby",
     },
     {
-        imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        imgURL: video2,
+        name: "Vent It Out",
+        link: "http://localhost:3001/vent",
     },
     {
-        imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        imgURL: video3,
+        name: "Educate Yourself",
+        link: "http://localhost:3001/education",
     },
     {
-        imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        imgURL: video4,
+        name: "Seek Help",
+        link: "https://www.helpguide.org/find-help.htm",
     },
 ];
 

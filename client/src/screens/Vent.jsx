@@ -35,7 +35,7 @@ const Vent = () => {
                     emotional support.
                 </p>
                 <div className="flex flex-col w-[80%] mx-auto mt-5 pb-10">
-                    <a href="https://discord.gg/QdTpcnSU" target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>DISCORD <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
+                    <a href="https://discord.gg/AyvnXb9t" target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>DISCORD <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
                     <a href="https://open.spotify.com/playlist/37i9dQZF1DXcCnTAt8CfNe?si=V7ETnyKgSM2O8Ho5QV1v8Q&utm_source=whatsapp" target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>MUSICAL THERAPY <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
                 </div>
             </div>

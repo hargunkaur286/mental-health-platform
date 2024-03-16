@@ -10,10 +10,10 @@ import headerLogo from './logo.png'
 
 import offer from './features.png'
 
-import shoe4 from './shoe4.svg'
-import shoe5 from './shoe5.svg'
-import shoe6 from './shoe6.svg'
-import shoe7 from './shoe7.svg'
+import video from './video.png'
+import video2 from './video2.png'
+import video3 from './video3.png'
+import video4 from './video4.png'
 import shoe8 from './hero9.png'
 
 import thumbnailBackground from './thumbnail-background.svg'
@@ -33,10 +33,10 @@ export {
     headerLogo,
 
     offer,
-    shoe4,
-    shoe5,
-    shoe6,
-    shoe7,
+    video,
+    video2,
+    video3,
+    video4,
     shoe8,
 
     thumbnailBackground,
