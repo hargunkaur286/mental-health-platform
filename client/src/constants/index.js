@@ -29,17 +29,17 @@ export const products = [
     {
         imgURL: video,
         name: "One on One Video Call",
-        link: "http://localhost:3001/lobby",
+        link: "http://localhost:3000/lobby",
     },
     {
         imgURL: video2,
         name: "Vent It Out",
-        link: "http://localhost:3001/vent",
+        link: "http://localhost:3000/vent",
     },
     {
         imgURL: video3,
         name: "Educate Yourself",
-        link: "http://localhost:3001/education",
+        link: "http://localhost:3000/education",
     },
     {
         imgURL: video4,

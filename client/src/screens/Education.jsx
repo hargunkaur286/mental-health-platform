@@ -18,7 +18,7 @@ const Vent = () => {
 
         </p>
         <div className="flex flex-col w-[80%] mx-auto mt-5 pb-10">
-          <a href= "http://localhost:3001/depression" target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>DEPRESSION <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
+          <a href= "http://localhost:3000/depression" target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>DEPRESSION <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
           <a target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>ANXIETY<img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
           <a target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>ADDICTION <img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
           <a target={'_blank'} className='flex flex-row justify-between items-center text-[20px] my-3 border rounded-lg py-10 px-5 hover:cursor-pointer hover:scale-105 transition ease-in-out shadow-lg'>PERSONALITY DISORDER<img src="https://img.icons8.com/material-rounded/24/null/chevron-right.png" /></a>
